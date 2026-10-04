@@ -1,4 +1,4 @@
-# 🎵 MP3 Tag Editor  
+##🎵 MP3 Tag Editor  
 
 A simple MP3 tag editor built using C.
 
